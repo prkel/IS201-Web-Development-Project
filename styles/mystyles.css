@@ -1,0 +1,32 @@
+.bgcolor1 {
+    background-color: whitesmoke;
+}
+.bgcolor2 {
+    background-color: whitesmoke;
+}
+
+ul{
+    font-weight: normal;
+    font-style: italic;
+}
+
+li {
+    font-size: smaller;
+    font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+h3 {
+    color: darkblue;
+}
+
+a {
+    color: maroon;
+}
+
+a:hover {
+    text-decoration: underline;
+}
